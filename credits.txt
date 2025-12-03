@@ -1,0 +1,16 @@
+Credits and Acknowledgments
+
+Development Team:
+Sarah Chen - Lead Developer
+Michael Rodriguez - Backend Engineer
+Emily Watson - Frontend Developer
+James Park - UI/UX Designer
+
+Quality Assurance:
+Lisa Thompson - QA Lead
+David Kumar - Test Engineer
+
+Special Thanks:
+Our beta testers for valuable feedback
+The open source community for tool support
+All users who reported issues and suggested improvements

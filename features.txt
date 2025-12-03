@@ -1,0 +1,16 @@
+New Features in Version 1.0
+
+Dark Mode Support
+Users can now toggle between light and dark themes in the settings menu.
+
+Export to PDF
+Documents can be exported directly to PDF format with a single click.
+
+Collaborative Editing
+Real-time collaboration allows multiple users to edit documents simultaneously.
+
+Advanced Search
+Enhanced search functionality with regex support and filter options.
+
+Custom Templates
+Users can create and save custom document templates for reuse.

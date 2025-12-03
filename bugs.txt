@@ -1,0 +1,9 @@
+Bug Fixes in Version 1.0
+
+Fixed crash when opening large files over 100MB
+Resolved memory leak in the auto-save feature
+Corrected rendering issues with special characters in titles
+Fixed synchronization problems in offline mode
+Resolved issue where undo history was lost after forced quit
+Corrected timezone display in document timestamps
+Fixed search highlighting not clearing properly
