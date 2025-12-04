@@ -376,11 +376,11 @@ Now let's save this to Git!
 
 ## Key Takeaways
 
-✅ **Split view** enables efficient multi-file workflows
-✅ **Live Markdown preview** shows formatting in real-time
-✅ **Markdown syntax** is simple yet powerful for documentation
-✅ **Good structure** makes release notes scannable and professional
-✅ **VS Code** is excellent for documentation work, not just code
+- ✅ **Split view** enables efficient multi-file workflows
+- ✅ **Live Markdown preview** shows formatting in real-time
+- ✅ **Markdown syntax** is simple yet powerful for documentation
+- ✅ **Good structure** makes release notes scannable and professional
+- ✅ **VS Code** is excellent for documentation work, not just code
 
 ---
 
